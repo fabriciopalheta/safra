@@ -1,0 +1,49 @@
+
+.margemDireitaEsquerda
+{
+
+    margin-right:200px;
+    margin-left:200px;
+    text-align:center;
+}
+
+.sombraBaixa
+{
+    box-shadow: 0px 8px 15px #000;
+
+}
+
+.textoBusca
+{
+    text-align: center;
+    font-size:  40;
+    color: brown;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.backContainer
+{
+    background-color:#fff;
+    opacity:0.98 ;
+
+}
+
+body
+{
+    background-image: url("https://cdn.shopify.com/s/files/1/1918/9937/products/Marvel-Avengers-Sketch-Fabric-Springs-Creative_70f497ac-4c5f-4f84-a2cc-3861963f4be2_2000x.jpg?v=1630692279");
+   z-index: -20;
+   opacity:0.95;
+   height: 100%;
+   width: 100%;
+   position: relative;
+  
+}
+
+t1 {
+     color: rgb(36, 36, 36); font-family: 'Helvetica Neue', sans-serif; font-size: 275px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: left; }
+
+t2 {
+     color: rgb(94, 28, 28); font-family: 'Helvetica Neue', sans-serif; font-size: 275px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+     
